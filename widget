@@ -1,8 +1,8 @@
 {
-  "name": "Google Button Widget",
-  "description": "A simple embeddable widget with a transparent background and a button that links to Google.",
+  "name": "BUS REQUEST Widget",
+  "description": "haha",
   "version": "1.0.0",
-  "author": "Your Name",
+  "author": "Beer",
   "homepage": "https://www.google.com",
   "files": {
     "html": "index.html"
