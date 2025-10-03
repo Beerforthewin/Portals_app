@@ -1,0 +1,10 @@
+{
+  "name": "Google Button Widget",
+  "description": "A simple embeddable widget with a transparent background and a button that links to Google.",
+  "version": "1.0.0",
+  "author": "Your Name",
+  "homepage": "https://www.google.com",
+  "files": {
+    "html": "index.html"
+  }
+}

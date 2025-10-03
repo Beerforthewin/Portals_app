@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Google Button Widget</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+      background: transparent;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    button {
+      padding: 20px 40px;
+      font-size: 24px;
+      border-radius: 12px;
+      border: none;
+      cursor: pointer;
+      background: #4285F4; /* Google blue */
+      color: white;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+      transition: background 0.2s;
+    }
+    button:hover {
+      background: #3367D6;
+    }
+  </style>
+</head>
+<body>
+  <button onclick="window.open('https://www.google.com', '_blank')">
+    Go to Google
+  </button>
+</body>
+</html>
